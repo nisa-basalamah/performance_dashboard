@@ -25,9 +25,6 @@ options(
   gargle_oauth_cache = ".secrets"
 )
 
-# googledrive::drive_auth() # run ONCE
-# googlesheets4::gs4_auth() # run ONCE
-
 # Get the ID of the sheet for writing programmatically
 # This should be placed at the top of your shiny app
 sheet_id <- drive_get("performance")$id
