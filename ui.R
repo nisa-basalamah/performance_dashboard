@@ -91,7 +91,8 @@ dashboardPage(
                 introBox(
                   data.step = 4,
                   data.intro = p("The", strong("save button"), "will do the prediction and save it to the main data along with the submitted",
-                                 code("date"), ",", code("kdRatio"), ",", code("assists"), ", and", code("scorePerMinute"), "values."),
+                                 code("date"), ",", code("kdRatio"), ",", code("assists"), ", and", code("scorePerMinute"),
+                                 "values. To apply or see the latest data input results on the dashboard, refresh the page."),
                   
                   actionButton(inputId = "save_button",
                                label = strong("Save"))
