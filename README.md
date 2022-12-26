@@ -53,9 +53,9 @@ This dashboard is part of the Analysing Esports Players’ Skills and Performanc
         
     - To publish a dashboard for the first time on a shinyapps account that **already connects with R** (if you previously have published the same dashboard, keep using this step but you may see a slightly different display):
         * From the dashboard window opened by clicking the <img src="https://github.com/nisa-basalamah/performance_dashboard/blob/main/assets/run_app.png" alt="./assets/run_app.png" width="100"/> button at the `global.R` file, click the <img src="https://github.com/nisa-basalamah/performance_dashboard/blob/main/assets/publish_button.png" alt="./assets/publish_button.png" width="100"/> button on the top right corner.
-        * There will be a new window pop up, uncheck the `prediction.R` and `assets` folder from the file lists on the left, and choose the account on the right. Fill in the title field, this will be used and shown in the link to your shiny dashboard. Click <img src="https://github.com/nisa-basalamah/performance_dashboard/blob/main/assets/publish_button.png" alt="./assets/publish_button.png" width="100"/>, then you may have to wait until a new window opened in your browser which shows your dashboard.
+        * There will be a new window pop up, uncheck the `prediction.R`, `README.md` file, and `assets` folder from the file lists on the left, and choose the account on the right. Fill in the title field, this will be used and shown in the link to your shiny dashboard. Click <img src="https://github.com/nisa-basalamah/performance_dashboard/blob/main/assets/publish_button.png" alt="./assets/publish_button.png" width="100"/>, then you may have to wait until a new window opened in your browser which shows your dashboard.
           <p align="center">
-          <img src="https://github.com/nisa-basalamah/performance_dashboard/blob/main/assets/publish_app.png" alt="./assets/publish_app.png" width="700"/>
+          <img src="https://github.com/nisa-basalamah/performance_dashboard/blob/main/assets/publish_shiny.png" alt="./assets/publish_shiny.png" width="700"/>
           </p>
    
    Now, you only need to go to your shiny dashboard app link and don't need to run the R file repeatedly to use the dashboard.
