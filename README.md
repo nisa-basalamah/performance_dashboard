@@ -1,6 +1,6 @@
 # Performance Analysis Dashboard
 
-This dashboard is part of the Analysing Esports Players’ Skills and Performance project. You may read the full version of the project from this [link](https://rpubs.com/nisa_basalamah/esports_performance_analysis) to the article and try the dashboard from this [link](https://nisa.shinyapps.io/performance_dashboard/), or replicate the dashboard by downloading the file from this repository.
+This dashboard is part of the Analysing Esports Players’ Skills and Performance project. You may read the full version of the project from this [link](https://rpubs.com/nisa_basalamah/esports_performance_analysis) to the article and try the dashboard on the [shinyapps](https://nisa.shinyapps.io/performance_dashboard/), or replicate the dashboard by downloading the file from this repository.
 
 ## Things to prepare:
 
